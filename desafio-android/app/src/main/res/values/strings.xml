@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cine Series</string>
+    <string name="title_movies">Filmes</string>
+    <string name="title_saved">Favoritos</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="lbl_no_data">Não existe dados nesta seção!</string>
+    <string name="lbl_verify_internt">Verifique sua conexão com a Internet</string>
+    <string name="lbl_try_bookmarks">ou tente acessar os favoritos</string>
+    <string name="txt_by">by</string>
+    <string name="txt_creator">Bogdan Petrovan</string>
+    <string name="txt_pub_date">27/12/2016</string>
+    <string name="txt_description">According to a note sent to clients by respected analyst Ming-Chi Kuo, Samsung has multiple options for suppliers for the Galaxy Note 9 fingerprint sensor.</string>
+    <string name="txt_title">Kuo: Samsung making progress with Note 9 under-display fingerprint reader</string>
+</resources>
