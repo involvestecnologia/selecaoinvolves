@@ -1,7 +1,13 @@
-# Repositório de Testes de Seleção
+# INTRODUÇÃO
 
-Repositório dedicado aos testes de seleção para a área de desenvolvimento e produto. Abaixo segue a listagem com os testes:
+O aplicativo baixa a lista de filmes da api do TMDB e armazena os dados em um banco local
+para manter o aplicativo funcionando mesmo estando offline.
 
-- [Vagas de Desenvolvedor Java 2017/07](teste-java-2017-07.md)
-- [Vagas de Desenvolvedor iOS Senior 2017/02](teste-iOS-2017-02.md)
-- [Vagas de Desenvolvedor Full Stack 2018/01](desafio-fullstack/README.md)
+# Bibliotecas utilizadas
+
+- Retrofit
+- Room
+- Arch Components
+- Paging
+- Glide
+- Database Debug
