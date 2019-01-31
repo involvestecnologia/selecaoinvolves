@@ -21,7 +21,7 @@ public class ProcessadorAlertas {
 	private AlertaGateway gateway;
 	
 	public void processa() throws IOException {
-		URL url = new URL("http://selecao-involves.agilepromoter.com/pesquisas");
+		URL url = new URL("https://selecao-involves.agilepromoter.com/pesquisas");
 		HttpURLConnection con = (HttpURLConnection) url.openConnection();
 		con.setRequestMethod("GET");
 		
