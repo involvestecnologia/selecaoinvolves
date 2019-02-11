@@ -3,7 +3,7 @@
 ## Definição do Problema
 Sou dono de uma empresa de máquinas de cartão de crédito, e contratei 5 representantes para me ajudar a oferecer meu produto em lojas da grande Florianópolis.
 Tenho em mãos uma lista de lojas  que devem ser visitadas. Os representantes trabalham a pé e cobrem um raio de no **_máximo_** 2 km de suas residências.
-Uma loja não pode ser visitada por mais de um representante.
+Uma loja **não pode** ser visitada por mais de um representante.
 
 Gostaria de ter um programa que me ajudasse a **definir quais lojas cada representante deve visitar e mostrasse esse resultado.**
 
