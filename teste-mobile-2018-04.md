@@ -68,4 +68,4 @@ Para as vagas de nível **Pleno** ou **Sênior**, você **deverá também**:
 
 - Não faça fork deste projeto.
 
-- Abrar um _pull-request_ com o código e envie o link para mobile@involves.com.br com o título **"[teste-2018] <nome_do_candidato>"**.
+- Abrar um _pull-request_ com o código e envie o link para mobile@involves.com.br com o título **"[teste-{ano}] {nome_do_candidato}"**.
