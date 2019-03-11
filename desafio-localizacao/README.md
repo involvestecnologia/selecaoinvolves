@@ -8,7 +8,7 @@ Uma loja **não pode** ser visitada por mais de um representante.
 Gostaria de ter um programa que me ajudasse a **definir quais lojas cada representante deve visitar e mostrasse esse resultado.**
 
 ## Observações
-  - Arquivos necessários estão na pasta _selecaoinvolves/desafio-localizacao/data_. o Arquivo referente aos representantes contém a lista de representantes contratados.
+  - Arquivos necessários estão na pasta _selecaoinvolves/desafio-localizacao/data_. O arquivo referente aos representantes contém a lista de representantes contratados.
   Já o arquivo referente as lojas, possui uma lista de possíveis lojas a visitar. Ambos os arquivos contém nome e localização.
   
 ## Como eu calculo a distância entre duas coordenadas?
@@ -54,6 +54,7 @@ Gostaria de ter um programa que me ajudasse a **definir quais lojas cada represe
 
 ## Diferenciais.
   - Testes unitários, gostamos.
+  - O que acontece quando uma loja pode ser visitada por mais de um representante? Como garantir que um representante não trabalhe muito mais do que outro?
   - Facilite nossa vida, logs explicando seu algoritmo no console são bem vindos.
   - A forma como você vai exibir os resultados no _frontend_ é livre, seja criativo.
   - Usamos docker #fikdik
