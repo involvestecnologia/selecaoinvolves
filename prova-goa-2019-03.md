@@ -8,7 +8,7 @@ Nosso contexto também tem grande foco em **microsserviços** e consequentemente
 
 #### O desafio que queremos te propor envolve você desenvolver uma aplicação **multi tenant** para processar um arquivo csv de pontos de venda, persistir em um banco de dados(de sua escolha) e disponibilizar alguns endpoints para que esses dados sejam consultados.
 
-**1** - O arquivo a ser enviado para a sua API é o de [pdvs.csv](data/cities.csv) disponível neste repositório na pasta **data**, e nós utilizaremos o seguinte comando para importa-lo:
+**1** - O arquivo a ser enviado para a sua API é o de [pdvs.csv](data/pdvs.csv) disponível neste repositório na pasta **data**, e nós utilizaremos o seguinte comando para importa-lo:
 
 ``` 
 curl -X POST \
