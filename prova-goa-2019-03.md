@@ -32,7 +32,10 @@ curl -X POST \
 
 #### Dicas
 
-- A principal linguagem na Involves é Java, mas nós não temos problemas com outras linguagens, principalmente Go, então se você desejar fazer em outra linguagem pode fazer.
+- A principal linguagem na Involves é Java, mas você também pode escolher uma das linguagens abaixo.
+  - Go
+  - Python
+  - Node
 
 - Nós gostamos de automação, então Docker, scripts e Makefiles são diferenciais, em resumo, facilidade para rodar o seu projeto é um requisito.
 
