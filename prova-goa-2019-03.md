@@ -47,7 +47,7 @@ curl -X POST \
 
 - Lembre-se de garantir que teremos acesso ao seu repositório.
 
-- A memória da JVM não é apenas o HeapSize 
+- Caso você decidir fazer em java, a memória da JVM não é apenas o HeapSize 
   - http://trustmeiamadeveloper.com/2016/03/18/where-is-my-memory-java/
 
 - Executaremos testes pesados de carga para avaliar performance da sua aplicação.
