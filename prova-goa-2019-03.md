@@ -2,7 +2,7 @@
 ## Olá dev := Candidato{}.
 
 No time do GOA temos diversos desafios arquiteturais, nossa principal missão é trabalhar em cima dos obstáculos que reduzem a nossa capacidade de **escalabilidade**,portanto todas as soluções desenvolvidas no nosso time são voltadas para alta **disponibilidade** e alta **performance**, logo nos preocupamos muito com **custo**, escalabilidade, **qualidade** e performance.
-Nosso contexto também tem grande foco em **microsserviços** e consequentemente nós sempre procuramos utilizar as melhores práticas em relação ao assunto, assim como como as melhores práticas de infraestrutura de microsserviços.
+Nosso contexto também tem grande foco em **microsserviços** e consequentemente nós sempre procuramos utilizar as melhores práticas em relação ao assunto, assim como as melhores práticas de infraestrutura de microsserviços.
 
 ## O desafio:
 
