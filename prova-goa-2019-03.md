@@ -1,14 +1,14 @@
 
 ## Olá dev := Candidato{}.
 
-No time do GOA temos diversos desafios arquiteturais, nossa principal missão é trabalhar em cima dos obstáculos que reduzem a nossa capacidade de **escalabilidade**,portanto todas as soluções desenvolvidas no nosso time são voltadas para alta **disponibilidade** e alta **performance**, logo nos preocupamos muito com **custo**, escalabilidade, **qualidade** e performance.
+No time do GOA temos diversos desafios arquiteturais. Nossa principal missão é trabalhar em cima dos obstáculos que reduzem a nossa capacidade de **escalabilidade**, portanto todas as soluções desenvolvidas no nosso time são voltadas para alta **disponibilidade** e alta **performance**. Nossas principais preocupações são: **custo**, escalabilidade, **qualidade** e performance.
 Nosso contexto também tem grande foco em **microsserviços** e consequentemente nós sempre procuramos utilizar as melhores práticas em relação ao assunto, assim como as melhores práticas de infraestrutura de microsserviços.
 
 ## O desafio:
 
 #### O desafio que queremos te propor envolve você desenvolver uma aplicação **multi tenant** para processar um arquivo csv de pontos de venda, persistir em um banco de dados(de sua escolha) e disponibilizar alguns endpoints para que esses dados sejam consultados.
 
-**1** - O arquivo a ser enviado para a sua API é o de [pdvs.csv](data/pdvs.csv) disponível neste repositório na pasta **data**, e nós utilizaremos o seguinte comando para importa-lo:
+**1** - O arquivo a ser enviado para a sua API é o de [pdvs.csv](data/pdvs.csv) disponível neste repositório na pasta **data**, e nós utilizaremos o seguinte comando para importá-lo:
 
 ``` 
 curl -X POST \
@@ -26,20 +26,20 @@ curl -X POST \
    - Se o nome do PDV for vazio, adicionar  "`NOME DESCONHECIDO`" ao campo nome do PDV
 
 
-**2** - Você deverá disponibilizar um endpoint para consultas de pontos de venda, este endpoint tem o requisito mínimo de aceitar os filtros de tenant,cidade, nome do pdv e cep.
+**2** - Você deverá disponibilizar um endpoint para consultas de pontos de venda, este endpoint tem o requisito mínimo de aceitar os filtros de _tenant_, cidade, nome do pdv e cep.
 
-**3** - O máximo de memória que a sua aplicação deverá utilizar é 400 Mb de ram.
+**3** - O máximo de memória que a sua aplicação deverá utilizar é 400 MB de RAM.
 
 #### Dicas
 
-- A principal linguagem na Involves é Java, mas você também pode escolher uma das linguagens abaixo.
+- A principal linguagem na Involves é Java, mas você também pode escolher uma das linguagens abaixo:
   - Go
   - Python
   - Node
 
 - Nós gostamos de automação, então Docker, scripts e Makefiles são diferenciais, em resumo, facilidade para rodar o seu projeto é um requisito.
 
-- A nomenclatura dos endpoints fica ao seu critério, porém é de suma importância que o seu teste possua a documentação dos endpoints, recomendamos um README bem detalhado.
+- A nomenclatura dos endpoints fica ao seu critério, porém é de suma importância que o seu teste possua a documentação dos endpoints. Recomendamos um README bem detalhado.
 
 - Você terá 10 dias para realizar esse teste.
 
@@ -47,7 +47,7 @@ curl -X POST \
 
 - Lembre-se de garantir que teremos acesso ao seu repositório.
 
-- Caso você decidir fazer em java, a memória da JVM não é apenas o HeapSize 
+- Caso você decidir fazer em Java, a memória da JVM não é apenas o HeapSize 
   - http://trustmeiamadeveloper.com/2016/03/18/where-is-my-memory-java/
 
 - Executaremos testes pesados de carga para avaliar performance da sua aplicação.
