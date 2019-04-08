@@ -28,7 +28,7 @@ curl -X POST \
 
 **2** - Você deverá disponibilizar um endpoint para consultas de pontos de venda, este endpoint tem o requisito mínimo de aceitar os filtros de _tenant_, cidade, nome do pdv e cep.
 
-**3** - O máximo de memória que a sua aplicação deverá utilizar é 400 MB de RAM.
+**3** - O máximo de memória que a sua aplicação deverá utilizar é 400 MB de RAM (caso escolha o Java com SpringBoot, o _overhead_ do framework não será levado em consideração).
 
 #### Dicas
 
