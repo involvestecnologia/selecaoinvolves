@@ -30,6 +30,16 @@ curl -X POST \
 
 **3** - O máximo de memória que a sua aplicação deverá utilizar é 400 MB de RAM (caso escolha o Java com SpringBoot, o _overhead_ do framework não será levado em consideração).
 
+
+### O que avaliaremos em sua solução
+
+- A forma que você aplicou o conceito de multi-tenant
+- Testes
+- Assertividade dos pontos acima
+- Escalabilidade
+- Performance
+- Clean code
+
 #### Dicas
 
 - A principal linguagem na Involves é Java, mas você também pode escolher uma das linguagens abaixo:
