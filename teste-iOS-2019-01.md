@@ -1,4 +1,4 @@
-Seleção Desenvolvedor iOS Senior
+Seleção Desenvolvedor iOS
 ==
 
 Olá, estamos muito felizes pelo seu interesse em fazer parte da nossa equipe de desenvolvimento. Gostaríamos de conhecer um pouco mais das suas habilidades como desenvolvedor e, para isso, preparamos o teste abaixo.
@@ -6,7 +6,8 @@ Olá, estamos muito felizes pelo seu interesse em fazer parte da nossa equipe de
 Sobre o teste
 --
 
-O nosso amigo [@pietrocaselani](https://github.com/pietrocaselani/) quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
+O nosso vovô [@cocuroci](https://github.com/cocuroci/) se perde nas séries que ele ja viu
+, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
 
 Para tanto achamos a API do Trakt.tv, que pode ser accessada no link [docs.trakt.apiary.io](http://docs.trakt.apiary.io/).
 
@@ -29,13 +30,8 @@ E como bônus, algumas das funcionalidades implementadas podem ser acessíveis o
 Sobre a avaliação
 --
 
-Para fins de avaliação, será levado em consideração a complexidade da implementação e os seguintes quesitos:
-
-- Abrangência dos requisitos
-- Estruturação do código para suportar testes
-- Abrangência dos testes unitários
-- Estratégia de persistência dos dados
-- Estratégia de consumo da API
+- Fica a seu critério o uso de arquitetura, organização de código e o uso de bibliotecas.
+- Gostamos de testes, mas aplicá-los no seu app fica a seu critério.
 
 ### Observações
 
@@ -46,4 +42,4 @@ Para fins de avaliação, será levado em consideração a complexidade da imple
 Sobre a entrega
 --
 
-Deve ser criado um repositório público no GitHub com todo o código do programa e com instruções de como executá-lo e como executar os testes. É importante que conste na descrição também um checklist com tudo o que foi implementado. O link do repositório deve ser enviado via email para ios@involves.com.br com o título ***"[teste-iOS-2017-01] \<nome_do_candidato\>"*** até a data limite informada no email em que você recebeu o link para esse teste.
+Deve ser criado um repositório público no GitHub com todo o código do programa e com instruções de como executá-lo e como executar os testes. É importante que conste na descrição também um checklist com tudo o que foi implementado. O link do repositório deve ser enviado via email para ios@involves.com.br com o título ***"[teste-iOS-2019-01] \<nome_do_candidato\>"*** até a data limite informada no email em que você recebeu o link para esse teste.
