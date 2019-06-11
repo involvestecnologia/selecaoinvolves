@@ -6,8 +6,7 @@ Olá, estamos muito felizes pelo seu interesse em fazer parte da nossa equipe de
 Sobre o teste
 --
 
-O nosso amigo [@cocuroci](https://github.com/cocuroci/) se perde nas séries que ele ja viu
-, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
+O nosso amigo [@cocuroci](https://github.com/cocuroci/) se perde nas séries que ele ja viu, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
 
 Para tanto achamos a API do Trakt.tv, que pode ser accessada no link [docs.trakt.apiary.io](http://docs.trakt.apiary.io/).
 
