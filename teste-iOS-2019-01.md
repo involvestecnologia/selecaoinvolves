@@ -17,6 +17,7 @@ O aplicativo, para ser caracterizado como **decente** precisa ter:
 - Qual o próximo episódio (e a data)
 - Uma página com as informações dos episódios (só dos próximos, só do último ou de todos fica a seu critério)
 - Marcar como assistido um episódio
+- Ele é exigente e vai olhar primeiro os testes
 
 Algumas outras funcionalidades que o fariam feliz são:
 
@@ -30,7 +31,6 @@ Sobre a avaliação
 --
 
 - Fica a seu critério o uso de arquitetura, organização de código e o uso de bibliotecas.
-- Gostamos de testes, mas aplicá-los no seu app fica a seu critério.
 
 ### Observações
 
