@@ -30,7 +30,7 @@ E como bônus, algumas das funcionalidades implementadas podem ser acessíveis o
 Sobre a avaliação
 --
 O que será avaliado:
-- Arquitetura utilizada
+- Padrões de projeto
 - Qualidade do código
 - Requisitos implementados
 - Funcionamento do app
