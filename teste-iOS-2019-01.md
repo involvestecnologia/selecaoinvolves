@@ -6,7 +6,7 @@ Olá, estamos muito felizes pelo seu interesse em fazer parte da nossa equipe de
 Sobre o teste
 --
 
-O nosso amigo [Thiago](https://github.com/thiagobevi/) se perde nas séries que ele ja viu, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
+O nosso amigo [Thiago](https://github.com/thiagobevi/) se perde nas séries que ele ja viu, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele já assistiu, as que está assistindo no momento, e as que ele gostaria de assistir (ou como ele chama, o aplicativo da vida dele).
 
 Para tanto achamos a API do Trakt.tv, que pode ser accessada no link [docs.trakt.apiary.io](http://docs.trakt.apiary.io/).
 
