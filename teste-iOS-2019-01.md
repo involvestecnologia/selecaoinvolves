@@ -6,7 +6,7 @@ Olá, estamos muito felizes pelo seu interesse em fazer parte da nossa equipe de
 Sobre o teste
 --
 
-O nosso amigo [@cocuroci](https://github.com/cocuroci/) se perde nas séries que ele ja viu, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
+O nosso amigo [Thiago](https://github.com/thiagobevi/) se perde nas séries que ele ja viu, portanto ele quer um aplicativo **decente** para o gerenciamento das séries que ele viu, tem que ver ou quer ver ainda (ou como ele chama, o aplicativo da vida dele).
 
 Para tanto achamos a API do Trakt.tv, que pode ser accessada no link [docs.trakt.apiary.io](http://docs.trakt.apiary.io/).
 
@@ -29,14 +29,18 @@ E como bônus, algumas das funcionalidades implementadas podem ser acessíveis o
 
 Sobre a avaliação
 --
-
-- Fica a seu critério o uso de arquitetura, organização de código e o uso de bibliotecas.
+O que será avaliado:
+- Arquitetura utilizada
+- Qualidade do código
+- Requisitos implementados
+- Funcionamento do app
 
 ### Observações
 
 - O teste pode ser desenvolvido em Objective-C ou Swift (a linguagem não será levada em consideração na avaliação);
 - Não há restrições quanto ao uso de bibliotecas externas;
 - A interface do aplicativo fica a seu critério e será levada como bônus na avaliação, mas não precisa ser nada muito elaborado, desde que siga os guidelines da Apple;
+- Utilize a ultima versão da linguagem e do Xcode;
 
 Sobre a entrega
 --
