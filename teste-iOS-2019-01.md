@@ -40,7 +40,7 @@ O que será avaliado:
 - O teste pode ser desenvolvido em Objective-C ou Swift (a linguagem não será levada em consideração na avaliação);
 - Não há restrições quanto ao uso de bibliotecas externas;
 - A interface do aplicativo fica a seu critério e será levada como bônus na avaliação, mas não precisa ser nada muito elaborado, desde que siga os guidelines da Apple;
-- Utilize a ultima versão da linguagem e do Xcode;
+- Utilize a última versão da linguagem e do Xcode;
 
 Sobre a entrega
 --
