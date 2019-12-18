@@ -34,6 +34,7 @@ O que será avaliado:
 - Qualidade do código
 - Requisitos implementados
 - Funcionamento do app
+- Testes
 
 ### Observações
 
